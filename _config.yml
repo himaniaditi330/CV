@@ -1,4 +1,4 @@
-title: Aditi Verma 📚🌟 # your name (or website title) here
+title: Aditi Verma # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
@@ -12,7 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   📞 <i>+91-630-647-4570</i>
   <br>
-  <i><a href="www.linkedin.com/in/aditi-verma-330">LinkedIn</a> || <a href="https://github.com/himaniaditi330">GitHub</a></i>
+  <i><a href="https://linkedin.com/in/aditi-verma-330">LinkedIn</a> || <a href="https://github.com/himaniaditi330">GitHub</a></i>
   
   
 theme: jekyll-theme-minimal
