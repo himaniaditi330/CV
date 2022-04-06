@@ -1,7 +1,10 @@
 title: Aditi Verma # your name (or website title) here
+theme: jekyll-theme-minimal
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 <br> <br>
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  Graduate Technical Intern @ Intel Corporation 
+  <br><br>
   M.tech from Indian Institute of Information Technology, Lucknow.
   <br><br>
   <a href="https://www.linkedin.com/in/aditi-verma-330/">View My LinkedIn Profile</a> 
-theme: jekyll-theme-minimal
