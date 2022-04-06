@@ -2,11 +2,11 @@ title: Aditi Verma # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Graduate Technical Intern @ Intel Corporation 
+  <i class="fas fa-band-aid">Graduate Technical Intern @ Intel Corporation </i>
   <br>
   M.tech from Indian Institute of Information Technology, Lucknow.
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>
+  <a href="https://www.linkedin.com/in/aditi-verma-330/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
