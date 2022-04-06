@@ -3,16 +3,14 @@ logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
   <br>
-  <i>👩‍💻 Graduate Technical Intern @ Intel Corporation
+  👩‍💻 <i>Graduate Technical Intern @ Intel Corporation</i>
   <br>
-  🎓 M.tech from Indian Institute of Information Technology, Lucknow.
+  🎓 <i>M.tech from Indian Institute of Information Technology, Lucknow.</i>
   <br>
-  🌏 Prayagraj, India.
-  <a href="https://www.linkedin.com/in/aditi-verma-330/">View My LinkedIn Profile</a></i> 
-  Graduate Technical Intern @ Intel Corporation
-  <br>
-  M.tech from Indian Institute of Information Technology, Lucknow.
-  <br>
+  🌏 <i>Prayagraj, India.</i>
+  📧 <i>[himaniaditi330@gmail.com](mailto:himaniaditi330@gmail.com)</i>
+  📞 <i>+91-630-647-4570</i>
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
