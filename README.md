@@ -18,7 +18,7 @@ _Software engineer and journalist based in Berlin, Germany_ <br>
 
 ## 💼 Experience
 
-### Graduate Technical Intern @ Intel Corporation (https://www.intel.com/content/www/us/en/homepage.html) _(June 2021 - Present)_ <br>
+### Graduate Technical Intern @ [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html) _(June 2021 - Present)_ <br>
   - **CBV-NLP Tool:** _Technologies used: Python, NLP._
     - An NLP based Tool which identies the tests required based on the Incoming Software Changes
 
