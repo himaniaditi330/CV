@@ -5,7 +5,9 @@ _Software engineer and journalist based in Berlin, Germany_ <br>
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
  -->
  
-<a href="/images/logo.jpg" download>Click to Download</a>
+<a href="/images/logo.jpg" download>
+  d
+</a>
 
 ---
 
