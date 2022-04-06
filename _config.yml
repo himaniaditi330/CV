@@ -1,6 +1,7 @@
 title: Aditi Verma # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
   <br>
   <i class="fas fa-band-aid">Graduate Technical Intern @ Intel Corporation </i>
   <br>
