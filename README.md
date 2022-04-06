@@ -5,8 +5,9 @@ _Software engineer and journalist based in Berlin, Germany_ <br>
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
  -->
  
-
-<a id="raw-url" href="https://github.com/himaniaditi330/CV/tree/gh-pages/images/logo.jpg">Download FILE</a>
+<a href="www.google.com" download>
+  d
+</a>
 
 
 ---
