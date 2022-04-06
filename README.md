@@ -6,7 +6,7 @@ _Software engineer and journalist based in Berlin, Germany_ <br>
  -->
  
 
-<a id="raw-url" href="https://raw.githubusercontent.com/himaniaditi330/CV/images/logo.jpg">Download FILE</a>
+<a id="raw-url" href="https://himaniaditi330/CV/images/logo.jpg">Download FILE</a>
 
 
 ---
