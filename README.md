@@ -8,10 +8,7 @@ _Software engineer and journalist based in Berlin, Germany_ <br>
 <a href="/images/logo.jpg" download>
   d
 </a>
-<a download="logo.jpg" href="/images" title="ImageName">
-    <img alt="ImageName" src="/images/">
-</a>
-
+<a href="/images/logo.jpg" download target="_blank">Click here to download</a>
 
 ---
 
