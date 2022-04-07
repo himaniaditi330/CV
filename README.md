@@ -8,7 +8,7 @@ _Software engineer and journalist based in Berlin, Germany_ <br>
 <a href="/images/logo.jpg" download>
   d
 </a>
-<a href="/images/logo.jpg" download target="_blank">Click here to download</a>
+<a id="raw-url" href="https://raw.himaniaditi330.github.io/CV/gh-pages/images/logo.jpg">Download FILE</a>
 
 ---
 
